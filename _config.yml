@@ -1,0 +1,28 @@
+name: Tap Dance Lessons
+favicon: null
+layout_spectrum: 0.22596612479537725
+typography_spectrum: 0.03091859514825046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9601396883372217
+  lightness: 0.4418908020015806
+  saturation: 0.7276485993061215
+  rhythmicContrast: 0.39625918841920793
+purpose: []
